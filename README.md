@@ -1,6 +1,6 @@
 - 👋 Hi, I’m vaidika :)
 # 💫 About Me:
-🔭 I am currently working on my own projects and learning about open source and React with Gen AI.<br>Exciting projects related to open source and React development<br>👯 I’m looking to collaborate on getting more hands-on experience in open source contributions and advancing my skills in React.<be> 🌱 I’m currently learning About open source development and deepening my knowledge of React.<br>⚡ Fun fact : I am passionate about exploring new technologies and contributing to the open source community!
+🔭 I am currently working on my own projects and learning about open source and React with Gen AI.<br>Exciting projects related to open source and React development<br> 👯 I’m looking to collaborate on getting more hands-on experience in open source contributions and advancing my skills in React.<br> 🌱 I’m currently learning About open source development and deepening my knowledge of React.<br>⚡ Fun fact : I am passionate about exploring new technologies and contributing to the open source community!
 
 
 ## 🌐 Socials:
